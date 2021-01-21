@@ -1,0 +1,6 @@
+
+class FotoController{
+    constructor(){
+        
+    }
+}

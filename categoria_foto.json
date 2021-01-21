@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "idFoto": 2
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "idFoto": 3
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "idFoto": 4
+    },
+    {
+        "id": 4,
+        "idCategoria": 3,
+        "idFoto": 1
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "idFoto": 5
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "idFoto": 2
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "idFoto": 5
+    },
+    {
+        "id": 8,
+        "idCategoria": 4,
+        "idFoto": 2
+    },
+    {
+        "id": 9,
+        "idCategoria": 5,
+        "idFoto": 2
+    }
+]
